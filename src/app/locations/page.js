@@ -1,9 +1,9 @@
 import Image from "next/image";
 
-export default function Home() {
+export default function Location() {
   return (
     <div className="base-layout">
-      hello world
+      Location
     </div>
   );
 }
